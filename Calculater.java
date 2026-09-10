@@ -15,7 +15,5 @@ class Calculater {
 	System.out.println("Quotient = " + quotient);
 	System.out.println("Reminder = " + reminder);
 
-	
-
-}
+	}
 }
